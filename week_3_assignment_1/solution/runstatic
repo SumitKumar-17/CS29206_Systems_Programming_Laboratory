@@ -1,0 +1,8 @@
+rm -f settype.o setops.o libsetutils.a libsetutils.so a.out
+gcc -Wall -c -I. settype.c
+gcc -Wall -c -I. setops.c
+ar rcs libsetutils.a settype.o setops.o
+gcc -Wall -I. -L. chocolate.c -lsetutils
+./a.out
+gcc -Wall -I. -L. -DSTAT_MODE chocolate.c -lsetutils
+./a.out

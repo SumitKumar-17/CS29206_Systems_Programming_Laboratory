@@ -1,0 +1,4 @@
+Average lengths of sauropod dinosaurs
+ Triassic period (252-201 Ma) :   4.88 meters
+ Jurassic period (201-145 Ma) :  20.60 meters
+ Cretaceous period (145-65 Ma) :  18.40 meters

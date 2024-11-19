@@ -1,0 +1,24 @@
+# !bin/bash
+#remove the temporary files created
+rm -f *.o libsetutils.so chocolate
+chmod 777 rundynamic
+
+
+#Create the objectf files
+gcc -Wall -c -fPIC settype.c  -o settype.o 
+gcc -Wall -c -fPIC setops.c -o setops.o
+
+#Combine both the object files
+gcc -shared -o libsetutils.so settype.o setops.o
+
+#Compile the file in interactive mode
+gcc chocolate.c -o chocolate.out -L. -lsetutils -DSTAT_MODE
+
+#Run the application
+./chocolate.out 0
+
+#Compile the file in statistics mode
+gcc  -Wall chocolate.c -o chocolate.out -L. -lsetutils 
+
+#Run the application
+./chocolate.out 1

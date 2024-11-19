@@ -1,0 +1,24 @@
+Abstract
+
+This tutorial focuses on algorithms for factoring large composite integers
+and for computing discrete logarithms in large finite fields. In order to
+make the exposition self-sufficient, I start with some common and popular
+public-key algorithms for encryption, key exchange, and digital signatures.
+These algorithms highlight the roles played by the apparent difficulty of
+solving the factoring and discrete-logarithm problems, for designing
+public-key protocols.
+
+Two exponential-time integer-factoring algorithms are first covered:
+trial division and Pollard’s rho method. This is followed by two
+sub-exponential algorithms based upon Fermat’s factoring method. Dixon’s
+method uses random squares, but illustrates the basic concepts of the
+relation-collection and the linear-algebra stages. Next, I introduce the
+Quadratic Sieve Method (QSM) which brings the benefits of using small
+candidates for smoothness testing and of sieving.
+
+As the third module, I formally define the discrete-logarithm problem (DLP)
+and its variants. As a representative of the square-root methods for solving
+the DLP, the baby-step-giant-step method is explained. Next, I introduce the
+index calculus method (ICM) as a general paradigm for solving the DLP.
+Various stages of the basic ICM are explained both for prime fields and
+for extension fields of characteristic two.

@@ -1,0 +1,89 @@
+A good way to solve this problem is to write a gdb script. Otherwise you can do this manually.
+Some 20 iterations of doing the loop body is not too much manual labor.
+
+Here is the complete transcript with gdb.
+
+**********************************************************************************************
+$ gdb ./guessit
+GNU gdb (Ubuntu 9.2-0ubuntu1~20.04.1) 9.2
+Copyright (C) 2020 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+Type "show copying" and "show warranty" for details.
+This GDB was configured as "x86_64-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<http://www.gnu.org/software/gdb/bugs/>.
+Find the GDB manual and other documentation resources online at:
+    <http://www.gnu.org/software/gdb/documentation/>.
+
+For help, type "help".
+Type "apropos word" to search for commands related to "word"...
+Reading symbols from ./guessit...
+(gdb) l
+1       #include <stdio.h>
+2       #include <stdlib.h>
+3       #include "secret.h"
+4
+5       int main ( int argc, char *argv[] )
+6       {
+7          unsigned int guess;
+8          int h;
+9
+10         if (argc != 2) {
+(gdb) 
+11            fprintf(stderr, "*** Run as: ./guessit YOUR_ROLL_NUMBER\n");
+12            exit(1);
+13         }
+14
+15         if (!validRollNo(argv[1])) {
+16            fprintf(stderr, "Please run with a valid roll number\n");
+17            exit(1);
+18         }
+19
+20         printf("Guessing the secret 12345\n");
+(gdb) 
+21         guess = 12345;
+22         h = hdistance(argv[1], guess);
+23         if (h == 0) printf("Wow, you are bang on the target. Well done.\n");
+24         else printf("Hmmm, you are %d bits away.\n", h);
+25
+26         exit(0);
+27      }
+(gdb) b 20
+Breakpoint 1 at 0x12b3: file guessit.c, line 20.
+(gdb) run 22CS30099
+Starting program: /home/abhij/IITKGP/course/lab/SPL/Spring24/prog/A3/guessit 22CS30099
+
+Breakpoint 1, main (argc=2, argv=0x7fffffffe4e8) at guessit.c:20
+20         printf("Guessing the secret 12345\n");
+(gdb) define guessloop
+Type commands for definition of "guessloop".
+End with a line saying just "end".
+>   set var $g = 0
+>   set var $h = (int)hdistance(argv[1], $g)
+>   set var $bit = 0
+>   while $bit < 20
+ >      set var $newg = ($g | (1U << $bit))
+ >      set var $newh = (int)hdistance(argv[1], $newg)
+ >      if ($newh < $h)
+  >         set var $g = $newg
+  >         set var $h = $newh
+  >      end
+ >      set var $bit = $bit + 1
+ >   end
+>   print $g
+>end
+(gdb) guessloop
+$1 = 836551
+(gdb) print (int)hdistance(argv[1], 836551)
+$2 = 0
+(gdb) c
+Continuing.
+Guessing the secret 12345
+Hmmm, you are 15 bits away.
+[Inferior 1 (process 70478) exited normally]
+(gdb) q
+$
+**********************************************************************************************

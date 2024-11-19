@@ -1,0 +1,1015 @@
+going through the dinosaur database
+Alamosaurus
+	Type:sauropod
+	Length:21metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 70-65 million years ago
+	Fosiils founf in
+		USA
+Albertaceratops
+	Type:ceratopsian
+	Length:7metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 80-75 million years ago
+	Fosiils founf in
+		Canada
+		 USA
+Albertosaurus
+	Type:large theropod
+	Length:9metres 
+	Weight: 1500 kilograms
+	Diet: Carnivorous
+	Lived 76-74 million years ago
+	Fosiils founf in
+		Canada
+Allosaurus
+	Type:large theropod
+	Length:12metres 
+	Weight: 2000 kilograms
+	Diet: Carnivorous
+	Lived 156-144 million years ago
+	Fosiils founf in
+		Portugal
+		 USA
+Ankylosaurus
+	Type:armored dinosaur
+	Length:7metres 
+	Weight: 4000 kilograms
+	Diet: Herbivorous
+	Lived 74-67 million years ago
+	Fosiils founf in
+		Canada
+		 USA
+Antarctosaurus
+	Type:sauropod
+	Length:18metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 84-65 million years ago
+	Fosiils founf in
+		Argentina
+		 Chile
+		 Uruguay
+Apatosaurus
+	Type:sauropod
+	Length:21metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 154-145 million years ago
+	Fosiils founf in
+		USA
+Aragosaurus
+	Type:sauropod
+	Length:18metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 132-121 million years ago
+	Fosiils founf in
+		Spain
+Archaeopteryx
+	Type:small theropod
+	Length:0.5metres 
+	Weight: Unknown
+	Diet: Carnivorous
+	Lived 147 million years ago
+	Fosiils founf in
+		Germany
+Argentinosaurus
+	Type:sauropod
+	Length:35metres 
+	Weight: 70000 kilograms
+	Diet: Herbivorous
+	Lived 90 million years ago
+	Fosiils founf in
+		Argentina
+Avaceratops
+	Type:ceratopsian
+	Length:2.3metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 80-75 million years ago
+	Fosiils founf in
+		USA
+Bactrosaurus
+	Type:euornithopod
+	Length:6metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 84-71 million years ago
+	Fosiils founf in
+		China
+Barapasaurus
+	Type:sauropod
+	Length:14metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 185-170 million years ago
+	Fosiils founf in
+		India
+Barosaurus
+	Type:sauropod
+	Length:24metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 155-145 million years ago
+	Fosiils founf in
+		Tanzania
+		 USA
+Baryonyx
+	Type:large theropod
+	Length:10metres 
+	Weight: 2000 kilograms
+	Diet: Carnivorous
+	Lived 125 million years ago
+	Fosiils founf in
+		Spain
+		 UK
+Brachiosaurus
+	Type:sauropod
+	Length:30metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 155-140 million years ago
+	Fosiils founf in
+		Algeria
+		 Portugal
+		 Tanzania
+		 USA
+Carcharodontosaurus
+	Type:large theropod
+	Length:15metres 
+	Weight: Unknown
+	Diet: Carnivorous
+	Lived 98-94 million years ago
+	Fosiils founf in
+		North Africa
+Carnotaurus
+	Type:large theropod
+	Length:7.6metres 
+	Weight: Unknown
+	Diet: Carnivorous
+	Lived 70 million years ago
+	Fosiils founf in
+		Argentina
+Centrosaurus
+	Type:ceratopsian
+	Length:6metres 
+	Weight: 1000 kilograms
+	Diet: Herbivorous
+	Lived 76-74 million years ago
+	Fosiils founf in
+		Canada
+Ceratosaurus
+	Type:large theropod
+	Length:6metres 
+	Weight: 970 kilograms
+	Diet: Carnivorous
+	Lived 153-148 million years ago
+	Fosiils founf in
+		Portugal
+		 USA
+Chindesaurus
+	Type:small theropod
+	Length:4metres 
+	Weight: Unknown
+	Diet: Carnivorous
+	Lived 227-210 million years ago
+	Fosiils founf in
+		USA
+Coelophysis
+	Type:small theropod
+	Length:2metres 
+	Weight: 27 kilograms
+	Diet: Carnivorous
+	Lived 225-190 million years ago
+	Fosiils founf in
+		South Africa
+		 USA
+		 Zimbabwe
+Dacentrurus
+	Type:armored dinosaur
+	Length:6metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 154-150 million years ago
+	Fosiils founf in
+		France
+		 Portugal
+		 UK
+Deinocheirus
+	Type:large theropod
+	Length:10metres 
+	Weight: Unknown
+	Diet: Omnivorous
+	Lived 70-66 million years ago
+	Fosiils founf in
+		Mongolia
+Deinonychus
+	Type:small theropod
+	Length:3metres 
+	Weight: 75 kilograms
+	Diet: Carnivorous
+	Lived 120-110 million years ago
+	Fosiils founf in
+		USA
+Dilophosaurus
+	Type:large theropod
+	Length:6metres 
+	Weight: 300 kilograms
+	Diet: Carnivorous
+	Lived 190 million years ago
+	Fosiils founf in
+		USA
+Diplodocus
+	Type:sauropod
+	Length:26metres 
+	Weight: 15000 kilograms
+	Diet: Herbivorous
+	Lived 155-145 million years ago
+	Fosiils founf in
+		USA
+Edmontosaurus
+	Type:euornithopod
+	Length:13metres 
+	Weight: 3400 kilograms
+	Diet: Herbivorous
+	Lived 76-65 million years ago
+	Fosiils founf in
+		Canada
+Gastonia
+	Type:armored dinosaur
+	Length:4.6metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 142-127 million years ago
+	Fosiils founf in
+		USA
+Giganotosaurus
+	Type:large theropod
+	Length:12.5metres 
+	Weight: 8000 kilograms
+	Diet: Carnivorous
+	Lived 112-90 million years ago
+	Fosiils founf in
+		Argentina
+Gobisaurus
+	Type:armored dinosaur
+	Length:5metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 121-99 million years ago
+	Fosiils founf in
+		China
+Hadrosaurus
+	Type:euornithopod
+	Length:9metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 78-74 million years ago
+	Fosiils founf in
+		USA
+Heterodontosaurus
+	Type:euornithopod
+	Length:1.2metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 205 million years ago
+	Fosiils founf in
+		Lesotho
+		 South Africa
+Iguanodon
+	Type:euornithopod
+	Length:10metres 
+	Weight: 4000 kilograms
+	Diet: Herbivorous
+	Lived 140-110 million years ago
+	Fosiils founf in
+		Belgium
+		 UK
+Indosuchus
+	Type:large theropod
+	Length:7metres 
+	Weight: Unknown
+	Diet: Carnivorous
+	Lived 71-65 million years ago
+	Fosiils founf in
+		India
+Isisaurus
+	Type:sauropod
+	Length:metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 71-65 million years ago
+	Fosiils founf in
+		India
+Kentrosaurus
+	Type:armored dinosaur
+	Length:5metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 155-150 million years ago
+	Fosiils founf in
+		Tanzania
+Kotasaurus
+	Type:sauropod
+	Length:9metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 205-190 million years ago
+	Fosiils founf in
+		India
+Leptoceratops
+	Type:ceratopsian
+	Length:3metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 67-65 million years ago
+	Fosiils founf in
+		Canada
+		 USA
+Majungasaurus
+	Type:large theropod
+	Length:6metres 
+	Weight: Unknown
+	Diet: Carnivorous
+	Lived 84-71 million years ago
+	Fosiils founf in
+		Madagascar
+Megalosaurus
+	Type:large theropod
+	Length:9metres 
+	Weight: Unknown
+	Diet: Carnivorous
+	Lived 170-155 million years ago
+	Fosiils founf in
+		UK
+Microraptor
+	Type:small theropod
+	Length:0.8metres 
+	Weight: 1 kilograms
+	Diet: Carnivorous
+	Lived 125-122 million years ago
+	Fosiils founf in
+		China
+Monolophosaurus
+	Type:large theropod
+	Length:5.7metres 
+	Weight: Unknown
+	Diet: Carnivorous
+	Lived 180-159 million years ago
+	Fosiils founf in
+		China
+Oviraptor
+	Type:small theropod
+	Length:2metres 
+	Weight: 20 kilograms
+	Diet: Omnivorous
+	Lived 85-75 million years ago
+	Fosiils founf in
+		Mongolia
+Parasaurolophus
+	Type:euornithopod
+	Length:11metres 
+	Weight: 3500 kilograms
+	Diet: Herbivorous
+	Lived 76-74 million years ago
+	Fosiils founf in
+		Canada
+		 USA
+Patagosaurus
+	Type:sauropod
+	Length:18metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 164-159 million years ago
+	Fosiils founf in
+		Argentina
+Pentaceratops
+	Type:ceratopsian
+	Length:6.8metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 76-74 million years ago
+	Fosiils founf in
+		USA
+Plateosaurus
+	Type:sauropod
+	Length:7metres 
+	Weight: 4000 kilograms
+	Diet: Herbivorous
+	Lived 210 million years ago
+	Fosiils founf in
+		France
+		 Germany
+		 Switzerland
+Protoceratops
+	Type:ceratopsian
+	Length:1.8metres 
+	Weight: 400 kilograms
+	Diet: Herbivorous
+	Lived 74-70 million years ago
+	Fosiils founf in
+		China
+		 Mongolia
+Riojasaurus
+	Type:sauropod
+	Length:5.15metres 
+	Weight: Unknown
+	Diet: Omnivorous
+	Lived 221-210 million years ago
+	Fosiils founf in
+		Argentina
+Scutellosaurus
+	Type:armored dinosour
+	Length:1.2metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 205-202 million years ago
+	Fosiils founf in
+		USA
+Sinraptor
+	Type:large theropod
+	Length:7.6metres 
+	Weight: Unknown
+	Diet: Carnivorous
+	Lived 169-142 million years ago
+	Fosiils founf in
+		China
+Spinosaurus
+	Type:large theropod
+	Length:18metres 
+	Weight: 4000 kilograms
+	Diet: Carnivorous
+	Lived 95-70 million years ago
+	Fosiils founf in
+		Egypt
+		 Morocco
+Stegosaurus
+	Type:armored dinosaur
+	Length:9metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 155-145 million years ago
+	Fosiils founf in
+		USA
+Tarbosaurus
+	Type:large theropod
+	Length:10metres 
+	Weight: Unknown
+	Diet: Carnivorous
+	Lived 74-70 million years ago
+	Fosiils founf in
+		China
+		 Mongolia
+Thecodontosaurus
+	Type:sauropod
+	Length:2.5metres 
+	Weight: Unknown
+	Diet: Omnivorous
+	Lived 227-205 million years ago
+	Fosiils founf in
+		UK
+Triceratops
+	Type:ceratopsian
+	Length:9metres 
+	Weight: 5500 kilograms
+	Diet: Herbivorous
+	Lived 68-66 million years ago
+	Fosiils founf in
+		USA
+Tyrannosaurus
+	Type:large theropod
+	Length:12metres 
+	Weight: 7000 kilograms
+	Diet: Carnivorous
+	Lived 68-66 million years ago
+	Fosiils founf in
+		Canada
+		 USA
+Utahraptor
+	Type:large theropod
+	Length:6metres 
+	Weight: 1000 kilograms
+	Diet: Carnivorous
+	Lived 112-100 million years ago
+	Fosiils founf in
+		USA
+Velociraptor
+	Type:small theropod
+	Length:1.8metres 
+	Weight: 7 kilograms
+	Diet: Carnivorous
+	Lived 74-70 million years ago
+	Fosiils founf in
+		Mongolia
+printing gis complete
+sbdc DJN	ICJ	PF	J	IF	;C	 VSKV
+going through the dinosaur database
+Alamosaurus
+	Type:sauropod
+	Length:21metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 70-65 million years ago
+	Fosiils founf in
+		USA
+Albertaceratops
+	Type:ceratopsian
+	Length:7metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 80-75 million years ago
+	Fosiils founf in
+		Canada
+		 USA
+Albertosaurus
+	Type:large theropod
+	Length:9metres 
+	Weight: 1500 kilograms
+	Diet: Carnivorous
+	Lived 76-74 million years ago
+	Fosiils founf in
+		Canada
+Allosaurus
+	Type:large theropod
+	Length:12metres 
+	Weight: 2000 kilograms
+	Diet: Carnivorous
+	Lived 156-144 million years ago
+	Fosiils founf in
+		Portugal
+		 USA
+Ankylosaurus
+	Type:armored dinosaur
+	Length:7metres 
+	Weight: 4000 kilograms
+	Diet: Herbivorous
+	Lived 74-67 million years ago
+	Fosiils founf in
+		Canada
+		 USA
+Antarctosaurus
+	Type:sauropod
+	Length:18metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 84-65 million years ago
+	Fosiils founf in
+		Argentina
+		 Chile
+		 Uruguay
+Apatosaurus
+	Type:sauropod
+	Length:21metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 154-145 million years ago
+	Fosiils founf in
+		USA
+Aragosaurus
+	Type:sauropod
+	Length:18metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 132-121 million years ago
+	Fosiils founf in
+		Spain
+Archaeopteryx
+	Type:small theropod
+	Length:0.5metres 
+	Weight: Unknown
+	Diet: Carnivorous
+	Lived 147 million years ago
+	Fosiils founf in
+		Germany
+Argentinosaurus
+	Type:sauropod
+	Length:35metres 
+	Weight: 70000 kilograms
+	Diet: Herbivorous
+	Lived 90 million years ago
+	Fosiils founf in
+		Argentina
+Avaceratops
+	Type:ceratopsian
+	Length:2.3metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 80-75 million years ago
+	Fosiils founf in
+		USA
+Bactrosaurus
+	Type:euornithopod
+	Length:6metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 84-71 million years ago
+	Fosiils founf in
+		China
+Barapasaurus
+	Type:sauropod
+	Length:14metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 185-170 million years ago
+	Fosiils founf in
+		India
+Barosaurus
+	Type:sauropod
+	Length:24metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 155-145 million years ago
+	Fosiils founf in
+		Tanzania
+		 USA
+Baryonyx
+	Type:large theropod
+	Length:10metres 
+	Weight: 2000 kilograms
+	Diet: Carnivorous
+	Lived 125 million years ago
+	Fosiils founf in
+		Spain
+		 UK
+Brachiosaurus
+	Type:sauropod
+	Length:30metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 155-140 million years ago
+	Fosiils founf in
+		Algeria
+		 Portugal
+		 Tanzania
+		 USA
+Carcharodontosaurus
+	Type:large theropod
+	Length:15metres 
+	Weight: Unknown
+	Diet: Carnivorous
+	Lived 98-94 million years ago
+	Fosiils founf in
+		North Africa
+Carnotaurus
+	Type:large theropod
+	Length:7.6metres 
+	Weight: Unknown
+	Diet: Carnivorous
+	Lived 70 million years ago
+	Fosiils founf in
+		Argentina
+Centrosaurus
+	Type:ceratopsian
+	Length:6metres 
+	Weight: 1000 kilograms
+	Diet: Herbivorous
+	Lived 76-74 million years ago
+	Fosiils founf in
+		Canada
+Ceratosaurus
+	Type:large theropod
+	Length:6metres 
+	Weight: 970 kilograms
+	Diet: Carnivorous
+	Lived 153-148 million years ago
+	Fosiils founf in
+		Portugal
+		 USA
+Chindesaurus
+	Type:small theropod
+	Length:4metres 
+	Weight: Unknown
+	Diet: Carnivorous
+	Lived 227-210 million years ago
+	Fosiils founf in
+		USA
+Coelophysis
+	Type:small theropod
+	Length:2metres 
+	Weight: 27 kilograms
+	Diet: Carnivorous
+	Lived 225-190 million years ago
+	Fosiils founf in
+		South Africa
+		 USA
+		 Zimbabwe
+Dacentrurus
+	Type:armored dinosaur
+	Length:6metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 154-150 million years ago
+	Fosiils founf in
+		France
+		 Portugal
+		 UK
+Deinocheirus
+	Type:large theropod
+	Length:10metres 
+	Weight: Unknown
+	Diet: Omnivorous
+	Lived 70-66 million years ago
+	Fosiils founf in
+		Mongolia
+Deinonychus
+	Type:small theropod
+	Length:3metres 
+	Weight: 75 kilograms
+	Diet: Carnivorous
+	Lived 120-110 million years ago
+	Fosiils founf in
+		USA
+Dilophosaurus
+	Type:large theropod
+	Length:6metres 
+	Weight: 300 kilograms
+	Diet: Carnivorous
+	Lived 190 million years ago
+	Fosiils founf in
+		USA
+Diplodocus
+	Type:sauropod
+	Length:26metres 
+	Weight: 15000 kilograms
+	Diet: Herbivorous
+	Lived 155-145 million years ago
+	Fosiils founf in
+		USA
+Edmontosaurus
+	Type:euornithopod
+	Length:13metres 
+	Weight: 3400 kilograms
+	Diet: Herbivorous
+	Lived 76-65 million years ago
+	Fosiils founf in
+		Canada
+Gastonia
+	Type:armored dinosaur
+	Length:4.6metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 142-127 million years ago
+	Fosiils founf in
+		USA
+Giganotosaurus
+	Type:large theropod
+	Length:12.5metres 
+	Weight: 8000 kilograms
+	Diet: Carnivorous
+	Lived 112-90 million years ago
+	Fosiils founf in
+		Argentina
+Gobisaurus
+	Type:armored dinosaur
+	Length:5metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 121-99 million years ago
+	Fosiils founf in
+		China
+Hadrosaurus
+	Type:euornithopod
+	Length:9metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 78-74 million years ago
+	Fosiils founf in
+		USA
+Heterodontosaurus
+	Type:euornithopod
+	Length:1.2metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 205 million years ago
+	Fosiils founf in
+		Lesotho
+		 South Africa
+Iguanodon
+	Type:euornithopod
+	Length:10metres 
+	Weight: 4000 kilograms
+	Diet: Herbivorous
+	Lived 140-110 million years ago
+	Fosiils founf in
+		Belgium
+		 UK
+Indosuchus
+	Type:large theropod
+	Length:7metres 
+	Weight: Unknown
+	Diet: Carnivorous
+	Lived 71-65 million years ago
+	Fosiils founf in
+		India
+Isisaurus
+	Type:sauropod
+	Length:metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 71-65 million years ago
+	Fosiils founf in
+		India
+Kentrosaurus
+	Type:armored dinosaur
+	Length:5metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 155-150 million years ago
+	Fosiils founf in
+		Tanzania
+Kotasaurus
+	Type:sauropod
+	Length:9metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 205-190 million years ago
+	Fosiils founf in
+		India
+Leptoceratops
+	Type:ceratopsian
+	Length:3metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 67-65 million years ago
+	Fosiils founf in
+		Canada
+		 USA
+Majungasaurus
+	Type:large theropod
+	Length:6metres 
+	Weight: Unknown
+	Diet: Carnivorous
+	Lived 84-71 million years ago
+	Fosiils founf in
+		Madagascar
+Megalosaurus
+	Type:large theropod
+	Length:9metres 
+	Weight: Unknown
+	Diet: Carnivorous
+	Lived 170-155 million years ago
+	Fosiils founf in
+		UK
+Microraptor
+	Type:small theropod
+	Length:0.8metres 
+	Weight: 1 kilograms
+	Diet: Carnivorous
+	Lived 125-122 million years ago
+	Fosiils founf in
+		China
+Monolophosaurus
+	Type:large theropod
+	Length:5.7metres 
+	Weight: Unknown
+	Diet: Carnivorous
+	Lived 180-159 million years ago
+	Fosiils founf in
+		China
+Oviraptor
+	Type:small theropod
+	Length:2metres 
+	Weight: 20 kilograms
+	Diet: Omnivorous
+	Lived 85-75 million years ago
+	Fosiils founf in
+		Mongolia
+Parasaurolophus
+	Type:euornithopod
+	Length:11metres 
+	Weight: 3500 kilograms
+	Diet: Herbivorous
+	Lived 76-74 million years ago
+	Fosiils founf in
+		Canada
+		 USA
+Patagosaurus
+	Type:sauropod
+	Length:18metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 164-159 million years ago
+	Fosiils founf in
+		Argentina
+Pentaceratops
+	Type:ceratopsian
+	Length:6.8metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 76-74 million years ago
+	Fosiils founf in
+		USA
+Plateosaurus
+	Type:sauropod
+	Length:7metres 
+	Weight: 4000 kilograms
+	Diet: Herbivorous
+	Lived 210 million years ago
+	Fosiils founf in
+		France
+		 Germany
+		 Switzerland
+Protoceratops
+	Type:ceratopsian
+	Length:1.8metres 
+	Weight: 400 kilograms
+	Diet: Herbivorous
+	Lived 74-70 million years ago
+	Fosiils founf in
+		China
+		 Mongolia
+Riojasaurus
+	Type:sauropod
+	Length:5.15metres 
+	Weight: Unknown
+	Diet: Omnivorous
+	Lived 221-210 million years ago
+	Fosiils founf in
+		Argentina
+Scutellosaurus
+	Type:armored dinosour
+	Length:1.2metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 205-202 million years ago
+	Fosiils founf in
+		USA
+Sinraptor
+	Type:large theropod
+	Length:7.6metres 
+	Weight: Unknown
+	Diet: Carnivorous
+	Lived 169-142 million years ago
+	Fosiils founf in
+		China
+Spinosaurus
+	Type:large theropod
+	Length:18metres 
+	Weight: 4000 kilograms
+	Diet: Carnivorous
+	Lived 95-70 million years ago
+	Fosiils founf in
+		Egypt
+		 Morocco
+Stegosaurus
+	Type:armored dinosaur
+	Length:9metres 
+	Weight: Unknown
+	Diet: Herbivorous
+	Lived 155-145 million years ago
+	Fosiils founf in
+		USA
+Tarbosaurus
+	Type:large theropod
+	Length:10metres 
+	Weight: Unknown
+	Diet: Carnivorous
+	Lived 74-70 million years ago
+	Fosiils founf in
+		China
+		 Mongolia
+Thecodontosaurus
+	Type:sauropod
+	Length:2.5metres 
+	Weight: Unknown
+	Diet: Omnivorous
+	Lived 227-205 million years ago
+	Fosiils founf in
+		UK
+Triceratops
+	Type:ceratopsian
+	Length:9metres 
+	Weight: 5500 kilograms
+	Diet: Herbivorous
+	Lived 68-66 million years ago
+	Fosiils founf in
+		USA
+Tyrannosaurus
+	Type:large theropod
+	Length:12metres 
+	Weight: 7000 kilograms
+	Diet: Carnivorous
+	Lived 68-66 million years ago
+	Fosiils founf in
+		Canada
+		 USA
+Utahraptor
+	Type:large theropod
+	Length:6metres 
+	Weight: 1000 kilograms
+	Diet: Carnivorous
+	Lived 112-100 million years ago
+	Fosiils founf in
+		USA
+Velociraptor
+	Type:small theropod
+	Length:1.8metres 
+	Weight: 7 kilograms
+	Diet: Carnivorous
+	Lived 74-70 million years ago
+	Fosiils founf in
+		Mongolia
+printing gis complete

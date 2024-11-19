@@ -1,0 +1,25 @@
+Albertosaurus hello theropod
+Allosaurus
+Archaeopteryx
+Baryonyx
+Carcharodontosaurus
+Carnotaurus
+Ceratosaurus
+Chindesaurus
+Coelophysis
+Deinocheirus
+Deinonychus
+Dilophosaurus
+Giganotosaurus
+Indosuchus
+Majungasaurus
+Megalosaurus
+Microraptor
+Monolophosaurus
+Oviraptor
+Sinraptor
+Spinosaurus
+Tarbosaurus
+Tyrannosaurus
+Utahraptor
+Velociraptor

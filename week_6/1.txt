@@ -1,0 +1,110 @@
+My Roll Number =22CS30056
+My secret=880586
+
+Description:- all the numbers were guessed by the power of 2  and if the on adding a particular power of 2 if the difference of bits got less we need to add that power in our number. if the difference of bits got more then we do not need to include that number in our guess value. by doing this process continously we can finally get the number of guess value at last.
+
+Commands used:-
+chmod 777 guessit
+gdb guessit
+run 22CS30056
+break 22
+
+set var guess=0 
+Comment:setting the value of guess at start  13 bits away
+continue
+
+run
+set var guess=2  
+Comment:12 bits away
+continue
+
+run
+set var guess=6 
+Comment:13 bits away
+continue
+
+run
+set var guess=10  
+Comment:11 bits away
+continue
+
+run
+set var guess=26
+Comment:12 bits away
+continue
+
+run
+set var guess=42 
+Comment:12bits away
+continue
+
+run
+set var guess=74 
+Comment:10 bits away
+continue
+
+run
+set var guess=202 
+Comment:9 bits away
+continue
+
+run
+set var guess=458 
+Comment:8 bits away
+continue
+
+run
+set var guess=970
+Comment:7 bits away
+continue
+
+run
+set var guess=1994 
+Comment:6 bits away
+continue
+
+run
+set var guess=4042  
+Comment:5 bits away
+continue
+
+run
+set var guess=8138 
+Comment:6 bits away
+continue
+
+run
+set var guess=12234 
+Comment:4 bits away
+continue
+
+run
+set var guess=28618 
+Comment:3 bits away
+continue
+
+run
+set var guess=61386 
+Comment:4bits away
+continue
+
+run
+set var guess=94154 
+Comment:2 bits away
+continue
+
+
+run
+set var guess=225226 
+Comment:3 bits away
+continue
+
+run
+set var guess=356298 
+Comment:1 bits away
+continue
+
+run
+set var guess=880586
+Comment:Wow, you are bang on the target. Well done.
+continue
